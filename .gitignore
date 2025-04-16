@@ -26,4 +26,5 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storetarget/FSWEB-S13D3-Java-Projesi-1.0-SNAPSHOT.jar target/classes target/generated-sources target/generated-test-sources target/maven-archiver target/maven-status target/surefire-reports target/test-classes
+target/
